@@ -36,7 +36,7 @@ Google Application Client Id - leave blank normally.
 client_id>
 Google Application Client Secret - leave blank normally.
 client_secret>
-Project number optional - needed only for list/create/delete buckets - see your developer console.
+Project ID (name or number) optional - needed only for list/create/delete buckets - see your developer console.
 project_number> 12345678
 Service Account Credentials JSON file path - needed only if you want use SA instead of interactive login.
 service_account_file>
