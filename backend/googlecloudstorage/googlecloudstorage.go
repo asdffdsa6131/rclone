@@ -95,7 +95,7 @@ func init() {
 			Help: "Google Application Client Secret\nLeave blank normally.",
 		}, {
 			Name: "project_number",
-			Help: "Project number.\nOptional - needed only for list/create/delete buckets - see your developer console.",
+			Help: "Project ID (name or number).\nOptional - needed only for list/create/delete buckets - see your developer console.",
 		}, {
 			Name: "service_account_file",
 			Help: "Service Account Credentials JSON file path\nLeave blank normally.\nNeeded only if you want use SA instead of interactive login." + env.ShellExpandHelp,
