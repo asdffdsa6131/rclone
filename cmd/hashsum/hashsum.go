@@ -37,7 +37,10 @@ Run without a hash to see the list of supported hashes, e.g.
     Supported hashes are:
       * MD5
       * SHA-1
+      * Whirlpool
+      * CRC-32
       * DropboxHash
+      * MailruHash
       * QuickXorHash
 
 Then
